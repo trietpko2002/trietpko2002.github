@@ -56,7 +56,13 @@ figure, header, nav, section, article, aside, footer, figcaption {
 .grid-item {
   width: 50%;
 }
-
+.header-congcu
+{
+  background-color: #4cd06b;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
 .grid-item {
   float: left;
 }
@@ -290,7 +296,7 @@ header
 }
 
 .header-area {
-  background-color: #33ccc5;
+  background-color: #198754;
   position: absolute;
   top: 0px;
   left: 0px;
